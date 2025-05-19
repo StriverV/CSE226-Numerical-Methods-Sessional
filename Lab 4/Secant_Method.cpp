@@ -14,9 +14,6 @@ int main()
     int max_iter;
     cin >> max_iter;
 
-
-
-
     for (int i = 0; i < max_iter; i++)
     {
         double f0 = f(x0);
